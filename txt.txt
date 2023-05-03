@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Eman's_Gallery</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1> Eman's_Gallery </h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home </a> </b> </u></li>
+				<li><a href="#">Contact us: 0120635****</a></li>
+                                
+			</ul>
+
+
+<form action="" method="" >
+<p> name:/
+<input type="text"
+name="your name" />
+</p>
+<p> location:/
+<input type="text" />
+
+<p> email:/
+<input type="email"
+name="@.com /
+<p> phone:/
+<input type="phone"
+name="+201xxxxxxxxx />
+</p>
+<p> your order:/
+<input type="text"
+name="put your order here" maxlength="100" />
+</p>
+</p>
+</form>
+
+
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h1>Classic Antique</h1>
+			<p></p>
+		</section>
+		<section>
+			<h4>get free shipping on all products</h4>
+                         <h3>enjoy online shopping</h3>
+			<ul>
+				<li> Golden mirror frame</li>
+<img src="picture1.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				<li>  Wall accessories</li>
+<img src="picture2.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				<li> Short lampshade</li>
+<img src="picture3.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+                                <li> 3 pieces of golden frames</li>
+<img src="picture4.jpeg" height="200px"  width="200px" alt="oops, image doesn't load">
+				<li> Long lampshade </li>
+<img src="picture5.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				<li> Circle golden mirror frame</li>
+<img src="picture10.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+                                <li> Small frame </li>
+<img src="picture7.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				<li> Golden candlesticks</li>
+<img src="picture8.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+                                <li> Classic wood frame </li>
+<img src="picture9.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+                                <li> Short offwhite frame</li>
+<img src="picture6.jpeg" height="200px"  width="200px"  alt="oops, image doesn't load">
+				
+			</ul>
+<form action="" method="" >
+<p> feedback:/
+<input type="text"
+name="we hope you like our products" maxlength="100" />
+</p>
+</form>
+
+
+<ul>
+     <li><a href="#">ADD TO Cart </a></li>
+</ul>
+
+		
+<p> For more products, Check official website  </ul>
+<a href=https://www.facebook.com/profile.php?id=100076263287725&mibextid=LQQJ4d>
+Click Here </a>			
+</p>
+
+
+</section>
+	</main>
+	<footer>
+		<p> Thank you for your time, Hope to see you again</p>
+<p> “Decorate your home. It gives the illusion that your life is more interesting than it really is."  </p>
+	</footer>
+
+	<script> alert("“Decorate your home. It gives the illusion that your life is more interesting than it really is.")
+</script>
+</body>
+</html>
